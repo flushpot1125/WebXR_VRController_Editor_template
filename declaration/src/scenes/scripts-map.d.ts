@@ -3,7 +3,7 @@ import { ScriptMap } from "./tools";
  * Defines the interface that exposes all exported scripts in this project.
  */
 export interface ISceneScriptMap extends ScriptMap {
-    "src/scenes/WebXR_VRController_Input/Particle.ts": any;
+    "src/scenes/WebXR_VRController_Input/ParticleComponent.ts": any;
     "src/scenes/WebXR_VRController_Input/WebXR_VRControllerInput.ts": any;
 }
 /**

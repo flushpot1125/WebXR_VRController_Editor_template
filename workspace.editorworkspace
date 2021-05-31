@@ -7,7 +7,9 @@
 	"physicsEngine": "cannon",
 	"pluginsPreferences": {},
 	"https": {
-		"enabled": false
+		"enabled": true,
+		"certPath": "/Users/takayuki/Documents/BJSEditor/Editor_git/Editor/html/cert.pem",
+		"keyPath": "/Users/takayuki/Documents/BJSEditor/Editor_git/Editor/html/key.pem"
 	},
 	"ktx2CompressedTextures": {
 		"enabled": false,

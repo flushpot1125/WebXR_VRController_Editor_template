@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@babylonjs/core");
 require("@babylonjs/materials");
-var scene_1 = require("./scenes/scene");
+var WebXR_VRController_Input_1 = require("./scenes/WebXR_VRController_Input");
 var Game = /** @class */ (function () {
     /**
      * Constructor.
@@ -18,7 +18,7 @@ var Game = /** @class */ (function () {
      */
     Game.prototype._load = function () {
         var _this = this;
-        var rootUrl = "./scenes/scene/";
+        var rootUrl = "./scenes/WebXR_VRController_Input/";
         core_1.SceneLoader.Append(rootUrl, "scene.babylon", this.scene, function () {
             _this.scene.executeWhenReady(function () {
                 // Attach camera.
@@ -27,7 +27,7 @@ var Game = /** @class */ (function () {
                 }
                 _this.scene.activeCamera.attachControl(_this.engine.getRenderingCanvas(), false);
                 // Run the scene to attach scripts etc.
-                scene_1.runScene(_this.scene, rootUrl);
+                WebXR_VRController_Input_1.runScene(_this.scene, rootUrl);
                 // Render.
                 _this.engine.runRenderLoop(function () { return _this.scene.render(); });
             });

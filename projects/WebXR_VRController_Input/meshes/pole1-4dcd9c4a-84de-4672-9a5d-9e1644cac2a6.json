@@ -4,7 +4,7 @@
 		{
 			"name": "pole1",
 			"id": "4dcd9c4a-84de-4672-9a5d-9e1644cac2a6",
-			"uniqueId": 60,
+			"uniqueId": 8,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -91,14 +91,14 @@
 			"applyFog": true,
 			"delayLoadingFile": "geometries/7ee5a6bd-2dd3-434e-ad67-b46609334124.babylonbinarymeshdata",
 			"boundingBoxMaximum": [
-				-2.657,
-				2.6451,
-				5.3559
+				-2.6570000648498535,
+				2.6451001167297363,
+				5.355899810791016
 			],
 			"boundingBoxMinimum": [
-				-2.9592,
-				-2.4159,
-				5.0537
+				-2.959199905395508,
+				-2.4158999919891357,
+				5.053699970245361
 			],
 			"_binaryInfo": {
 				"positionsAttrDesc": {

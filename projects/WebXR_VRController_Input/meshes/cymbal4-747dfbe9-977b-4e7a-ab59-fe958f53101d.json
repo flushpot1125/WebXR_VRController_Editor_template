@@ -4,7 +4,7 @@
 		{
 			"name": "cymbal4",
 			"id": "747dfbe9-977b-4e7a-ab59-fe958f53101d",
-			"uniqueId": 54,
+			"uniqueId": 23,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -91,14 +91,14 @@
 			"applyFog": true,
 			"delayLoadingFile": "geometries/2f13d01d-63ca-4a16-b85b-266203071a6f.babylonbinarymeshdata",
 			"boundingBoxMaximum": [
-				-1.2865,
-				2.5195,
-				-3.7069
+				-1.2864999771118164,
+				2.5195000171661377,
+				-3.706899881362915
 			],
 			"boundingBoxMinimum": [
-				-4.3298,
-				1.6422,
-				-6.7502
+				-4.329800128936768,
+				1.642199993133545,
+				-6.750199794769287
 			],
 			"_binaryInfo": {
 				"positionsAttrDesc": {

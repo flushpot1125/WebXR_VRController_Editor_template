@@ -5,7 +5,7 @@
 		{
 			"name": "Dram3",
 			"id": "39333e93-d70c-4faa-91e8-992b5ef52d99",
-			"uniqueId": 70,
+			"uniqueId": 10,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -92,14 +92,14 @@
 			"applyFog": true,
 			"delayLoadingFile": "geometries/22b739a9-16e1-4410-94fd-d5a58162f17c.babylonbinarymeshdata",
 			"boundingBoxMaximum": [
-				2.4344,
-				0.8145,
-				-1.3942
+				2.4344000816345215,
+				0.8144999742507935,
+				-1.3941999673843384
 			],
 			"boundingBoxMinimum": [
-				-0.0228,
-				-0.3853,
-				-3.8513
+				-0.02280000038444996,
+				-0.38530001044273376,
+				-3.851300001144409
 			],
 			"_binaryInfo": {
 				"positionsAttrDesc": {

@@ -5,7 +5,7 @@
 		{
 			"name": "Dram2",
 			"id": "c93838e3-e39d-4e49-9902-69756c54c00f",
-			"uniqueId": 65,
+			"uniqueId": 17,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -83,7 +83,7 @@
 			"ranges": [],
 			"layerMask": 268435455,
 			"alphaIndex": 1.7976931348623157e+308,
-			"overlayAlpha": 0.5,
+			"overlayAlpha": 0.3,
 			"overlayColor": [
 				1,
 				0,
@@ -92,14 +92,14 @@
 			"applyFog": true,
 			"delayLoadingFile": "geometries/555b5903-66f5-4f96-8cfc-8ff8987f4571.babylonbinarymeshdata",
 			"boundingBoxMaximum": [
-				2.4344,
-				0.8145,
-				3.824
+				2.4344000816345215,
+				0.8144999742507935,
+				3.8239998817443848
 			],
 			"boundingBoxMinimum": [
-				-0.0228,
-				-0.3853,
-				1.3668
+				-0.02280000038444996,
+				-0.38530001044273376,
+				1.3667999505996704
 			],
 			"_binaryInfo": {
 				"positionsAttrDesc": {

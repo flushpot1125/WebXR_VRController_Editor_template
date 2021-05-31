@@ -4,7 +4,7 @@
 		{
 			"name": "cymbal2",
 			"id": "6f9edb5b-0938-4204-a79d-29e97f646b40",
-			"uniqueId": 50,
+			"uniqueId": 14,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -92,13 +92,13 @@
 			"delayLoadingFile": "geometries/76b7b49e-6d1c-4a7b-8af5-68c40ee5da19.babylonbinarymeshdata",
 			"boundingBoxMaximum": [
 				1,
-				1.7748,
-				6.056
+				1.7747999429702759,
+				6.056000232696533
 			],
 			"boundingBoxMinimum": [
 				-1,
-				1.1982,
-				4.056
+				1.198199987411499,
+				4.056000232696533
 			],
 			"_binaryInfo": {
 				"positionsAttrDesc": {

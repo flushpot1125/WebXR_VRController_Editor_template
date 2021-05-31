@@ -86,7 +86,10 @@
 		"name": "EnvironmentBRDFTexture0",
 		"metadata": {
 			"editorName": "data:EnvironmentBRDFTexture0",
-			"editorId": "1246748e-f8e2-408e-ad07-edfd6beca7fe"
+			"editorId": "1246748e-f8e2-408e-ad07-edfd6beca7fe",
+			"ktx2CompressedTextures": {
+				"isUsingCompressedTexture": false
+			}
 		},
 		"hasAlpha": false,
 		"getAlphaFromRGB": false,

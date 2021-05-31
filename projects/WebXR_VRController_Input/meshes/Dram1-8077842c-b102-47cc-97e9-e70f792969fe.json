@@ -5,7 +5,7 @@
 		{
 			"name": "Dram1",
 			"id": "8077842c-b102-47cc-97e9-e70f792969fe",
-			"uniqueId": 80,
+			"uniqueId": 11,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -92,14 +92,14 @@
 			"applyFog": true,
 			"delayLoadingFile": "geometries/21d13385-1027-4345-aa41-804f8cae48b6.babylonbinarymeshdata",
 			"boundingBoxMaximum": [
-				-0.1406,
-				1.8522,
-				3.9459
+				-0.14059999585151672,
+				1.8522000312805176,
+				3.9458999633789062
 			],
 			"boundingBoxMinimum": [
-				-3.2806,
-				-0.3572,
-				1.0974
+				-3.280600070953369,
+				-0.3571999967098236,
+				1.0973999500274658
 			],
 			"_binaryInfo": {
 				"positionsAttrDesc": {

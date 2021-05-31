@@ -1,7 +1,7 @@
 import { Engine, Scene, SceneLoader } from "@babylonjs/core";
 import "@babylonjs/materials";
 
-import { runScene } from "./scenes/scene";
+import { runScene } from "./scenes/WebXR_VRController_Input";
 
 export class Game {
     /**
@@ -28,7 +28,7 @@ export class Game {
      * Loads the first scene.
      */
     private _load(): void {
-        const rootUrl = "./scenes/scene/";
+        const rootUrl = "./scenes/WebXR_VRController_Input/";
 
         SceneLoader.Append(rootUrl, "scene.babylon", this.scene, () => {
             this.scene.executeWhenReady(() => {

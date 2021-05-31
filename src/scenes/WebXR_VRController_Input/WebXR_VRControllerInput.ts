@@ -3,7 +3,7 @@ import * as BABYLON from "@babylonjs/core/Legacy/legacy";
 import {MeshBuilder,Vector3,Mesh} from "@babylonjs/core";
 import { fromScene } from "../tools";
 
-import ParticleComponent from "./Particle"
+import ParticleComponent from "./ParticleComponent"
 /**
  * This represents a script that is attached to a node in the editor.
  * Available nodes are:
@@ -50,7 +50,7 @@ export default class WebXR_VRControllerInput extends Node {
     @fromScene("cymbal4")
     _cymbal4 :Mesh;
 
-    @fromScene("Particle")
+    @fromScene("ParticleComponent")
     _particle : ParticleComponent;
     /**
      * Override constructor.

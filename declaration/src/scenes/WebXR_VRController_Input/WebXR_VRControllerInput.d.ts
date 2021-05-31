@@ -1,6 +1,6 @@
 import { Node } from "@babylonjs/core";
 import { Mesh } from "@babylonjs/core";
-import ParticleComponent from "./Particle";
+import ParticleComponent from "./ParticleComponent";
 /**
  * This represents a script that is attached to a node in the editor.
  * Available nodes are:

@@ -285,7 +285,7 @@ var WebXR_VRControllerInput = /** @class */ (function (_super) {
         tools_1.fromScene("cymbal4")
     ], WebXR_VRControllerInput.prototype, "_cymbal4", void 0);
     __decorate([
-        tools_1.fromScene("Particle")
+        tools_1.fromScene("ParticleComponent")
     ], WebXR_VRControllerInput.prototype, "_particle", void 0);
     return WebXR_VRControllerInput;
 }(core_1.Node));
