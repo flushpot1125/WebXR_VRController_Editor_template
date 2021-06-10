@@ -62,7 +62,7 @@ Ref:https://github.com/http-party/http-server#tlsssl
 
 ![](./pictures_forReadme/Run_in_my_browser_https.jpg)
 
-6. Your default web browser shows a new page as "http://<IP address>:1338".  
+6. Your default web browser shows a new page as "http://IP address:1338".  
 Access the URL on Oculus Quest2 or other WebXR compatible devices.  
 
 7. A dramset is showed in a virtual space. When you press keys of controllers, particle effects appears from each cymbals. Drams expand.  
