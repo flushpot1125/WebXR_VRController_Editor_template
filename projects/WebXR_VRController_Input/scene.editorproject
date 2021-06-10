@@ -11,26 +11,9 @@
 	"materials": [
 		{
 			"bindedMeshes": [
-				"e22f3d3a-65b2-4993-8c52-cb05d2af8278"
-			],
-			"json": "cube-03bdd37e-fe54-4095-a392-0de62b0de089.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [
 				"0ea78d97-3c1f-4911-8d78-2b4cd65a0424"
 			],
 			"json": "ground-44ce4d7a-5718-4025-a141-272ee6387673.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [
-				"703e6bab-dea9-42a2-9c3f-95883b523f59",
-				"6f9edb5b-0938-4204-a79d-29e97f646b40",
-				"ee2c9f60-b197-4834-aaf3-0347e311cbfc",
-				"747dfbe9-977b-4e7a-ab59-fe958f53101d"
-			],
-			"json": "metal_yellow-8e693b37-acb1-4ada-bcbe-142d3b13157b.json",
 			"isMultiMaterial": false
 		},
 		{
@@ -42,12 +25,27 @@
 		},
 		{
 			"bindedMeshes": [],
+			"json": "cube-03bdd37e-fe54-4095-a392-0de62b0de089.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"ee2c9f60-b197-4834-aaf3-0347e311cbfc",
+				"703e6bab-dea9-42a2-9c3f-95883b523f59",
+				"747dfbe9-977b-4e7a-ab59-fe958f53101d",
+				"6f9edb5b-0938-4204-a79d-29e97f646b40"
+			],
+			"json": "metal_yellow-8e693b37-acb1-4ada-bcbe-142d3b13157b.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
 			"json": "black-55137244-1bb1-4e65-a5a4-29be479d1f22.json",
 			"isMultiMaterial": false
 		},
 		{
 			"bindedMeshes": [],
-			"json": "black.001-d312433a-dc86-4cb7-8911-5c4a701e4d18.json",
+			"json": "red-4661cbe8-c669-4a23-af22-951f00d7c544.json",
 			"isMultiMaterial": false
 		},
 		{
@@ -57,15 +55,15 @@
 		},
 		{
 			"bindedMeshes": [],
-			"json": "red-4661cbe8-c669-4a23-af22-951f00d7c544.json",
+			"json": "black.001-d312433a-dc86-4cb7-8911-5c4a701e4d18.json",
 			"isMultiMaterial": false
 		},
 		{
 			"bindedMeshes": [
-				"4dcd9c4a-84de-4672-9a5d-9e1644cac2a6",
 				"2b031cbd-a2a6-406e-8849-47b7f4efca8b",
-				"98b2c810-ccef-433a-81a1-3f5641c0d28e",
-				"d88c4124-8890-42a7-aa89-ad892f73f9b8"
+				"4dcd9c4a-84de-4672-9a5d-9e1644cac2a6",
+				"d88c4124-8890-42a7-aa89-ad892f73f9b8",
+				"98b2c810-ccef-433a-81a1-3f5641c0d28e"
 			],
 			"json": "silver-0cb632f7-865d-4609-84c9-88de293e9dba.json",
 			"isMultiMaterial": false
@@ -77,12 +75,12 @@
 		},
 		{
 			"bindedMeshes": [],
-			"json": "red.002-9c7830a7-250f-449d-aea0-8e462cc88efb.json",
+			"json": "black.004-84a3ded9-6022-4b71-a9c5-fc82bc741182.json",
 			"isMultiMaterial": false
 		},
 		{
 			"bindedMeshes": [],
-			"json": "black.003-6c7f519a-2233-4f53-9c51-05fb43c4f063.json",
+			"json": "red.002-9c7830a7-250f-449d-aea0-8e462cc88efb.json",
 			"isMultiMaterial": false
 		},
 		{
@@ -92,19 +90,19 @@
 		},
 		{
 			"bindedMeshes": [],
-			"json": "black.004-84a3ded9-6022-4b71-a9c5-fc82bc741182.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [],
 			"json": "red.003-4fa2b1bc-8829-4a36-8ad9-6f4e110dd0fb.json",
 			"isMultiMaterial": false
 		},
 		{
+			"bindedMeshes": [],
+			"json": "black.003-6c7f519a-2233-4f53-9c51-05fb43c4f063.json",
+			"isMultiMaterial": false
+		},
+		{
 			"bindedMeshes": [
-				"957924c1-7a72-494f-b3c4-00ee0c69d31f"
+				"c93838e3-e39d-4e49-9902-69756c54c00f"
 			],
-			"json": "dram_v4.Multimaterial#0-4576b919-9a5e-4538-af88-c84413ccbb9d.json",
+			"json": "dram_v4.Multimaterial#1-7e0bc517-82fa-4624-a299-f2fee6256214.json",
 			"isMultiMaterial": true
 		},
 		{
@@ -116,9 +114,9 @@
 		},
 		{
 			"bindedMeshes": [
-				"c93838e3-e39d-4e49-9902-69756c54c00f"
+				"24ffd884-4c64-4d50-9885-b7739d2951a6"
 			],
-			"json": "dram_v4.Multimaterial#1-7e0bc517-82fa-4624-a299-f2fee6256214.json",
+			"json": "dram_v4.Multimaterial#3-b8640fc5-47b6-4274-8f7f-28bdf42e58b0.json",
 			"isMultiMaterial": true
 		},
 		{
@@ -130,39 +128,39 @@
 		},
 		{
 			"bindedMeshes": [
-				"24ffd884-4c64-4d50-9885-b7739d2951a6"
+				"957924c1-7a72-494f-b3c4-00ee0c69d31f"
 			],
-			"json": "dram_v4.Multimaterial#3-b8640fc5-47b6-4274-8f7f-28bdf42e58b0.json",
+			"json": "dram_v4.Multimaterial#0-4576b919-9a5e-4538-af88-c84413ccbb9d.json",
 			"isMultiMaterial": true
 		}
 	],
 	"textures": [
-		"music_note.png-86.json",
-		"EnvironmentBRDFTexture0-48.json",
-		"line.png-85.json",
-		"music_notes.png-87.json",
-		"star.png-88.json"
+		"music_note.png-65.json",
+		"line.png-66.json",
+		"music_notes.png-67.json",
+		"star.png-68.json",
+		"EnvironmentBRDFTexture0-48.json"
 	],
 	"meshes": [
-		"pole4-2b031cbd-a2a6-406e-8849-47b7f4efca8b.json",
 		"Dram2-c93838e3-e39d-4e49-9902-69756c54c00f.json",
-		"Dram1-8077842c-b102-47cc-97e9-e70f792969fe.json",
+		"pole4-2b031cbd-a2a6-406e-8849-47b7f4efca8b.json",
+		"pole3-d88c4124-8890-42a7-aa89-ad892f73f9b8.json",
+		"ground-0ea78d97-3c1f-4911-8d78-2b4cd65a0424.json",
+		"Dram4-24ffd884-4c64-4d50-9885-b7739d2951a6.json",
+		"Dram0-957924c1-7a72-494f-b3c4-00ee0c69d31f.json",
+		"pole2-98b2c810-ccef-433a-81a1-3f5641c0d28e.json",
+		"sky-6a927ea7-51d9-4248-9b80-4d34b53b386e.json",
+		"Dram3-39333e93-d70c-4faa-91e8-992b5ef52d99.json",
 		"pole1-4dcd9c4a-84de-4672-9a5d-9e1644cac2a6.json",
 		"cymbal3-703e6bab-dea9-42a2-9c3f-95883b523f59.json",
-		"ground-0ea78d97-3c1f-4911-8d78-2b4cd65a0424.json",
-		"cymbal2-6f9edb5b-0938-4204-a79d-29e97f646b40.json",
-		"sky-6a927ea7-51d9-4248-9b80-4d34b53b386e.json",
-		"pole3-d88c4124-8890-42a7-aa89-ad892f73f9b8.json",
 		"cymbal1-ee2c9f60-b197-4834-aaf3-0347e311cbfc.json",
-		"Dram4-24ffd884-4c64-4d50-9885-b7739d2951a6.json",
-		"pole2-98b2c810-ccef-433a-81a1-3f5641c0d28e.json",
-		"Dram3-39333e93-d70c-4faa-91e8-992b5ef52d99.json",
-		"Dram0-957924c1-7a72-494f-b3c4-00ee0c69d31f.json",
-		"cymbal4-747dfbe9-977b-4e7a-ab59-fe958f53101d.json"
+		"Dram1-8077842c-b102-47cc-97e9-e70f792969fe.json",
+		"cymbal4-747dfbe9-977b-4e7a-ab59-fe958f53101d.json",
+		"cymbal2-6f9edb5b-0938-4204-a79d-29e97f646b40.json"
 	],
 	"transformNodes": [
-		"WebXR_VRController_Input-00a44f43-af7f-4d27-9ea1-9920ce582a09.json",
-		"ParticleComponent-676c511b-2895-42d3-b4d5-67e40eabb087.json"
+		"ParticleComponent-676c511b-2895-42d3-b4d5-67e40eabb087.json",
+		"WebXR_VRController_Input-00a44f43-af7f-4d27-9ea1-9920ce582a09.json"
 	],
 	"particleSystems": [],
 	"lights": [
@@ -355,9 +353,9 @@
 	"project": {
 		"camera": {
 			"tags": "modified",
-			"alpha": 0.31638014349225224,
-			"beta": 1.1190191951197823,
-			"radius": 16.702530024182632,
+			"alpha": 0.09400831015013789,
+			"beta": 1.232917464751304,
+			"radius": 53.219858263958024,
 			"target": [
 				0,
 				0.5194425582885742,
@@ -391,9 +389,9 @@
 			],
 			"speed": 2,
 			"position": [
-				14.280997706111743,
-				7.811183571813268,
-				4.67526755581275
+				49.98909582250025,
+				18.161114061553597,
+				4.7132832564525105
 			],
 			"upVector": [
 				0,
@@ -402,7 +400,7 @@
 			],
 			"fov": 0.8,
 			"minZ": 1,
-			"maxZ": 10000,
+			"maxZ": 15000,
 			"inertia": 0.9,
 			"mode": 0,
 			"layerMask": 268435455,

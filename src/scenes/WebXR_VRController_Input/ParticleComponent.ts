@@ -45,7 +45,7 @@ export default class ParticleComponent extends Node {
      public onStart(): void {
         starParticleSystem =  new BABYLON.ParticleSystem("particles", 200, this._scene);
         starParticleSystem.particleTexture = new BABYLON.Texture("../../../../scenes/WebXR_VRController_Input/files/star.png",this._scene);
-        starParticleSystem.emitter = new BABYLON.Vector3(-1, 2.2, -2.95);
+        starParticleSystem.emitter = new BABYLON.Vector3(-1, 2.2, 6.95);
         starParticleSystem.minLifeTime = 0.2;
         starParticleSystem.maxLifeTime = 1;
 
@@ -57,7 +57,7 @@ export default class ParticleComponent extends Node {
 
         musicNoteDoubleParticleSystem =  new BABYLON.ParticleSystem("particles", 200, this._scene);
         musicNoteDoubleParticleSystem.particleTexture = new BABYLON.Texture("../../../../scenes/WebXR_VRController_Input/files/music_notes.png",this._scene);
-        musicNoteDoubleParticleSystem.emitter = new BABYLON.Vector3(-1, 2.2, -6.95);
+        musicNoteDoubleParticleSystem.emitter = new BABYLON.Vector3(-4, 2.2, 6.95);
         musicNoteDoubleParticleSystem.minLifeTime = 0.2;
         musicNoteDoubleParticleSystem.maxLifeTime = 1;
 

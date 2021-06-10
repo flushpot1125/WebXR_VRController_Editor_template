@@ -124,7 +124,7 @@ var WebXR_VRControllerInput = /** @class */ (function (_super) {
                         case 1:
                             xr = _a.sent();
                             //changed position when WebXR immersive-vr mode is active. 
-                            xr.baseExperience.camera.position.set(-0.83, 2, 11);
+                            xr.baseExperience.camera.position.set(-3.8, 2, 11);
                             /* avoid low performance thanks for @ninisan_drumath */
                             __scene.postProcessRenderPipelineManager.detachCamerasFromRenderPipeline("ssao", __scene.activeCamera);
                             __scene.postProcessRenderPipelineManager.supportedPipelines.forEach(function (pp) {

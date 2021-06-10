@@ -5,7 +5,7 @@
 		{
 			"name": "Dram0",
 			"id": "957924c1-7a72-494f-b3c4-00ee0c69d31f",
-			"uniqueId": 22,
+			"uniqueId": 21,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -42,6 +42,7 @@
 			},
 			"isEnabled": true,
 			"isVisible": true,
+			"infiniteDistance": false,
 			"pickable": true,
 			"receiveShadows": false,
 			"billboardMode": 0,
@@ -76,7 +77,12 @@
 					"name": "Dram0",
 					"sceneFileName": "dram_v4.babylon"
 				},
-				"isPickable": true
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false
 			},
 			"instances": [],
 			"animations": [],

@@ -4,7 +4,7 @@
 		{
 			"name": "cymbal1",
 			"id": "ee2c9f60-b197-4834-aaf3-0347e311cbfc",
-			"uniqueId": 19,
+			"uniqueId": 9,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -41,6 +41,7 @@
 			},
 			"isEnabled": true,
 			"isVisible": true,
+			"infiniteDistance": false,
 			"pickable": true,
 			"receiveShadows": false,
 			"billboardMode": 0,
@@ -75,7 +76,11 @@
 					"name": "cymbal1",
 					"sceneFileName": "dram_v4.babylon"
 				},
-				"isPickable": true
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
 			},
 			"instances": [],
 			"animations": [],

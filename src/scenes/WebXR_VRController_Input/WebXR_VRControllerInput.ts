@@ -93,7 +93,7 @@ export default class WebXR_VRControllerInput extends Node {
             });
 
             //changed position when WebXR immersive-vr mode is active. 
-            xr.baseExperience.camera.position.set(-0.83, 2, 11);
+            xr.baseExperience.camera.position.set(-3.8, 2, 11);
 
 
 

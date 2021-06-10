@@ -115,8 +115,13 @@
 	"Sounds": [],
 	"Scripts": [
 		{
-			"id": "ParticleComponent.ts",
-			"key": "WebXR_VRController_Input/ParticleComponent.ts",
+			"id": "WebXR_VRController_Input",
+			"key": "WebXR_VRController_Input",
+			"base64": "../css/svg/folder-open.svg"
+		},
+		{
+			"id": "decorators.ts",
+			"key": "decorators.ts",
 			"base64": "../css/images/ts.png",
 			"style": {
 				"borderColor": "#2FA1D6",
@@ -125,23 +130,18 @@
 			}
 		},
 		{
-			"id": "WebXR_VRControllerInput.ts",
-			"key": "WebXR_VRController_Input/WebXR_VRControllerInput.ts",
+			"id": "scripts-map.ts",
+			"key": "scripts-map.ts",
 			"base64": "../css/images/ts.png",
 			"style": {
 				"borderColor": "#2FA1D6",
 				"borderStyle": "solid",
-				"borderWidth": "2px"
+				"borderWidth": "0px"
 			}
 		},
 		{
-			"id": "graphs",
-			"key": "WebXR_VRController_Input/graphs",
-			"base64": "../css/svg/folder-open.svg"
-		},
-		{
-			"id": "index.ts",
-			"key": "WebXR_VRController_Input/index.ts",
+			"id": "tools.ts",
+			"key": "tools.ts",
 			"base64": "../css/images/ts.png",
 			"style": {
 				"borderColor": "#2FA1D6",

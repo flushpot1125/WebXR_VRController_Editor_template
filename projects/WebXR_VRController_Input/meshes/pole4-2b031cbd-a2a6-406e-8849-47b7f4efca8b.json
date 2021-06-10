@@ -4,7 +4,7 @@
 		{
 			"name": "pole4",
 			"id": "2b031cbd-a2a6-406e-8849-47b7f4efca8b",
-			"uniqueId": 15,
+			"uniqueId": 8,
 			"type": "Mesh",
 			"position": [
 				-1.4901245246112835,
@@ -82,7 +82,7 @@
 			"ranges": [],
 			"layerMask": 268435455,
 			"alphaIndex": 1.7976931348623157e+308,
-			"overlayAlpha": 0.5,
+			"overlayAlpha": 0.3,
 			"overlayColor": [
 				1,
 				0,
